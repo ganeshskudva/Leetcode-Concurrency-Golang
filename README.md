@@ -11,3 +11,4 @@ Please give this repo a ⭐ if it inspires you.
 ## Medium
 |LC #|Description|
 |:-:|:-|
+|[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|
