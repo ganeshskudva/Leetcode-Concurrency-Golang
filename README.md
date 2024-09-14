@@ -12,3 +12,4 @@ Please give this repo a ⭐ if it inspires you.
 |LC #|Description|
 |:-:|:-|
 |[1115](https://leetcode.com/problems/print-foobar-alternately/)| Print FooBar Alternately|
+|[1116](https://leetcode.com/problems/print-zero-even-odd/)| Print Zero Even Odd|
